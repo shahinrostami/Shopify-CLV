@@ -5,3 +5,8 @@ Revenue growth is great in a young business, but to sustain that growth, the bus
 ## Project Organization
 
 -------------- <br>
+- LICENSE <br>
+- README.md     <- Top-Level Readme for anyone interested in this project <br>
+- DATA <br>
+  - Raw < - Original CSV anonymized customer data from Shopify <br>
+    - 
