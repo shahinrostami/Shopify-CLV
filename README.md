@@ -8,5 +8,6 @@ Revenue growth is great in a young business, but to sustain that growth, the bus
 - LICENSE <br>
 - README.md     <- Top-Level Readme for anyone interested in this project <br>
 - DATA <br>
-  - Raw < - Original CSV anonymized customer data from Shopify <br>
-    - 
+  - Public Raw < - Original CSV anonymized customer data from Shopify <br>
+    - cust_pub4.pkl < - pickled python DataFrame after removing all identifying information about customers
+    - cust_pub4.csv < - CSV file of customer DataFrame
